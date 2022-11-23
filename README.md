@@ -4,7 +4,7 @@ Yan Han, Eddie Huang, Wenqing Zheng, Nikhil Rao, Zhangyang Wang, Karthik Subbian
 
 # Dual-Channel Attention-based Hypergraph Neural Network (DCAH)
 
-![DCAH](figs/model.pdf)
+![DCAH](figs/model.jpeg)
 
 This framework utilizes the free-available auxiliary information to create a hypergraph to assist the main task of link prediction.
 
